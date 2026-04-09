@@ -26,4 +26,5 @@ For that Data Story 6, this is a comprehensive background research on my chosen 
 
 
 
-Link to the Book:
+Link to the Book: file:///Users/tahmoboi/Documents/Freshman_Spring/ESCI_Class/repos/data_story_3/docs/sdg-overview.html
+
