@@ -1,0 +1,18 @@
+--- 
+title: "TITLE"
+author: "Tahmid Hossain Bhuiyan"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: 
+  bookdown::gitbook:
+    config:
+      sharing:
+        facebook: false
+        twitter: false
+documentclass: book
+bibliography: [bibliography.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: https://github.com/ericmkeen/bookdown_minimal
+description: "DESCRIPTION yall."
+---
