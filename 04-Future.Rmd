@@ -25,6 +25,9 @@ Without these, 2030 will pass, a new set of goals will be announced, and the sam
 
 If current trajectories hold, SDG 8 faces a future shaped by three compounding crises. The first is AI-driven labor market transformation, which disproportionately displaces women and lower-skill workers faster than training and social protection systems can respond (UN Women 2025). The second is the continued dominance of informal employment in the Global South, where hundreds of millions of workers are technically employed but practically unprotected (ILO 2025). The third is a global financing architecture that routes cheap capital to rich countries and extracts debt payments from poor ones, making the investment needed for decent work fundamentally inaccessible in the places that need it most (Sachs et al. 2025).
 
+
+![](images/Ai_imp_employment.png)
+
 The green transition creates a genuine opportunity here if governments seize it deliberately. Renewable energy industries are labor-intensive. Green infrastructure creates jobs. Retrofitting buildings for energy efficiency generates employment locally in every country. But the green transition also destroys jobs in fossil fuel industries, often in communities with no economic alternatives. Just transition policies, including retraining programs, income support, and regional investment strategies, are as essential to SDG 8's future as any employment statistic.
 
 The technology question is also unavoidable. AI and automation will reshape labor markets on a timeline that outpaces current policy cycles. Countries that build the regulatory, educational, and social protection infrastructure now will manage this transition. Countries that do not will see inequality deepen, informality grow, and decent work become even more concentrated at the top (UN Women 2025).
@@ -34,6 +37,9 @@ On top of all these, we also have to think about the linkage between employment 
 ## The SDGs as a Whole: The Bigger Stakes
 
 Ten years after the adoption of Agenda 2030, less than 20 percent of SDG targets are projected to be achieved by 2030. Zero of the 17 goals are on track globally (Sachs et al. 2025). This is a serious complication. However, there is more to it than just numbers.
+
+
+![](images/SDG_progress.png)
 
 The SDGs did not fail because the goals were wrong. They are failing because the financial and political systems of the world were never reformed to make them achievable. The global financial architecture just pushes money to rich countries. The international debt system extracts resources from poor ones and supplies them to the rich. Development assistance is declining precisely when the need is most needed. And geopolitical fragmentation is undermining the multilateral cooperation that the SDGs fundamentally require (Sachs et al. 2025).
 

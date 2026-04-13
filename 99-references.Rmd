@@ -4,9 +4,9 @@
 
 1- [IISD] International Institute for Sustainable Development. 2025. SDG 8: promote economic growth and decent work for all [internet]. SDG Knowledge Hub. [accessed 2026 Apr 9]https://sdg.iisd.org/news/sdg-8-promote-economic-growth-and-decent-work-for-all/
 
-2- [ILO] International Labour Organization. 2025. World employment and social outlook: trends 2025. Geneva (Switzerland): ILO.
+2- [ILO] [International Labour Organization. 2025. World employment and social outlook: trends 2025. Geneva (Switzerland): ILO.](https://www.ilo.org/sites/default/files/2025-01/WESO25_Trends_Report_EN.pdf)
 
-3- [UN] United Nations. 2025a. Goal 1: no poverty [internet]. UN Department of Economic and Social Affairs. [accessed 2026 Apr 9]. https://www.un.org/sustainabledevelopment/poverty/
+3- [UN] United Nations. 2025a. Goal 1: no poverty [internet]. UN Department of Economic and Social Affairs. [accessed 2026 Apr 9]. (https://www.un.org/sustainabledevelopment/poverty/)
 
 4- [UN] United Nations. 2025b. Goal 8: decent work and economic growth [internet]. UN Department of Economic and Social Affairs. [accessed 2026 Apr 9]. https://www.un.org/sustainabledevelopment/economic-growth/
 
@@ -16,21 +16,21 @@
 
 7- [UNDP] United Nations Development Programme. 2025. Background on the sustainable development goals [internet]. UNDP SDG Accelerator. [accessed 2026 Apr 9]. https://www.undp.org/sdg-accelerator/background-goals
 
-8- [UNGA] United Nations General Assembly. 1992. Agenda 21: programme of action for sustainable development. Resolution adopted at the UN Conference on Environment and Development; Rio de Janeiro, Brazil.
+8- [UNGA] [United Nations General Assembly. 1992. Agenda 21: programme of action for sustainable development. Resolution adopted at the UN Conference on Environment and Development; Rio de Janeiro, Brazil.](https://www.un.org/esa/dsd/agenda21/Agenda%2021.pdf)
 
-9- [UNGA] United Nations General Assembly. 2012. The future we want. Resolution A/RES/66/288. New York (NY): United Nations.
+9- [UNGA] [United Nations General Assembly. 2012. The future we want. Resolution A/RES/66/288. New York (NY): United Nations.](https://documents.un.org/doc/undoc/gen/n16/092/43/pdf/n1609243.pdf?OpenElement)
 
 10- [UNGA] United Nations General Assembly. 2015. Transforming our world: the 2030 agenda for sustainable development. Resolution A/RES/70/1. New York (NY): United Nations. https://sdgs.un.org/2030agenda
 
 11- [WEF] World Economic Forum. 2025. Sustainable development goals: are we on track for 2030? [internet]. [accessed 2026 Apr 9]. https://www.weforum.org/stories/2025/09/sdg-progress-report-2025/
 
-12- [World Bank] World Bank Group. 2024a. Poverty and shared prosperity report 2024. Washington (DC): World Bank.
+12- [World Bank] [World Bank Group. 2024a. Poverty,prosperity and planet report 2024. Washington (DC): World Bank.](https://www.worldbank.org/en/publication/poverty-prosperity-and-planet)
 
 13- [World Bank] World Bank Group. 2024b. SDG atlas goal 1: no poverty [internet]. [accessed 2026 Apr 9]. https://datatopics.worldbank.org/sdgatlas/goal-1-no-poverty/
 
-15- Eurostat. 2025. SDG 8: decent work and economic growth [internet]. European Commission Statistics Explained. [accessed 2026 Apr 9]. https://ec.europa.eu/eurostat/statistics-explained/index.php?title=SDG_8
+14- Eurostat. 2025. SDG 8: decent work and economic growth [internet]. European Commission Statistics Explained. [accessed 2026 Apr 9]. https://ec.europa.eu/eurostat/statistics-explained/index.php?title=SDG_8
 
-16- Sachs, J.D., Lafortune, G., Fuller, G., Iablonovski, G. (2025). Financing Sustainable Development to 2030 and Mid-Century. Sustainable Development Report 2025. Paris: SDSN, Dublin: Dublin University Press, 2025,
+15- Sachs, J.D., Lafortune, G., Fuller, G., Iablonovski, G. (2025). Financing Sustainable Development to 2030 and Mid-Century. Sustainable Development Report 2025. Paris: SDSN, Dublin: Dublin University Press, 2025,
 https://doi.org/10.25546/111909
 
-17- World Commission on Environment and Development. 1987. Our common future. Oxford (England): Oxford University Press.
+16- [World Commission on Environment and Development. 1987. Our common future. Oxford (England): Oxford University Press.](http://www.un-documents.net/our-common-future.pdf)

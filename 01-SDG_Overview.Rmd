@@ -1,5 +1,5 @@
 ---
-title: "01- SDG_Overview"
+title: "Story 3: Poverty & Economic Growth"
 author: "Tahmid Hossain Bhuiyan"
 date: "`r Sys.Date()`"
 output: html_document
@@ -40,36 +40,7 @@ In 2013, the general assembly formed a group of 30 members to come up with the S
 
 The 17 Sustainable Development Goals are organized around what the 2030 Agenda calls the "5 Ps": People, Planet, Prosperity, Peace, and Partnership. The goals are:
 
-1- No Poverty
 
-2- Zero Hunger
-
-3- Good Health and Well-Being
-
-4- Quality Education
-
-5- Gender Equality
-
-6- Clean Water and Sanitation
-
-7- Affordable and Clean Energy
-
-8- Decent Work and Economic Growth
-
-9- Industry, Innovation and Infrastructure
-
-10- Reduced Inequalities
-
-11- Sustainable Cities and Communities
-
-12- Responsible Consumption and Production
-
-13- Climate Action
-
-14- Life Below Water
-
-16- Life on Land
-
-17- Peace, Justice and Strong Institutions
+![](images/SDGs.png)
 
 Unlike the MDGs, the SDGs apply universally to all countries, developed and developing alike. Germany and Ghana. The United States and Uganda. All measured against the same compass. The goals are also explicitly interdependent. Progress on SDG 8 (decent work) accelerates progress on SDG 1 (no poverty). Climate inaction under SDG 13 reverses gains in SDG 2 (zero hunger). The SDGs are not a checklist. They are a system.

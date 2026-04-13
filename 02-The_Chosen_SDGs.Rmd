@@ -4,7 +4,9 @@
 
 ## SDG 1: No Poverty
 
-SDG 1 is the foundational goal. Its ambition is deceptively simple: end poverty in all its forms, everywhere, by 2030. Its seven targets address extreme poverty (living below $3 per day in 2025), national poverty reduction, social protection systems, equal rights to economic resources, climate and disaster resilience, and international resource mobilization (UN 2025a).
+SDG 1 is the foundational goal. Its ambition is extremely simple: end poverty in all its forms, everywhere, by 2030. Its seven targets address extreme poverty (living below $3 per day in 2025), national poverty reduction, social protection systems, equal rights to economic resources, climate and disaster resilience, and international resource mobilization (UN 2025a).
+
+![](images/Poverty.png)
 
 This goal does not define poverty as just income. It captures the full texture of deprivation: lack of land, lack of legal standing, lack of social protection, lack of resilience to shocks. Poverty in the SDG framework is multidimensional. And so are its solutions.
 

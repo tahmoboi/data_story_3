@@ -1,5 +1,5 @@
 --- 
-title: "TITLE"
+title: "Poverty Vs Economic Growth"
 author: "Tahmid Hossain Bhuiyan"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
