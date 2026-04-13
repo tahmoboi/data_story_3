@@ -26,5 +26,5 @@ For that Data Story 6, this is a comprehensive background research on my chosen 
 
 
 
-Link to the Book: file:///Users/tahmoboi/Documents/Freshman_Spring/ESCI_Class/repos/data_story_3/docs/sdg-overview.html
+Link to the Book: [SDG 1 and SDG 8: Deepdive](https://tahmoboi.github.io/data_story_3/)
 
